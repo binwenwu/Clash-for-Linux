@@ -15,6 +15,12 @@ git clone https://github.com/binwenwu/Clash-for-linux.git
 cd Clash-for-linux
 ```
 
+- *Set execution permissions*
+
+```bash
+chmod +x ./clash-linux-amd64-v1.3.5
+```
+
 - *Start program*
 
 ```bash
