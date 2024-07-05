@@ -36,13 +36,13 @@ cd Clash-for-linux
 - *Set execution permissions*
 
 ```bash
-chmod +x ./clash-linux-amd64-v1.3.5
+chmod +x ./clash-linux-amd64
 ```
 
 - *Start program*
 
 ```bash
-./clash-linux-amd64-v1.3.5 -f ./yourconfig.yaml
+./clash-linux-amd64 -f ./yourconfig.yaml
 ```
 
 - *Enable Terminal Agent*
