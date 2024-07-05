@@ -35,6 +35,8 @@ cd Clash-for-linux
 
 - *Set execution permissions*
 
+> Choose a `clash` application that is compatible with your own machine's `CPU`
+
 ```bash
 chmod +x ./clash-linux-amd64
 ```
@@ -71,3 +73,8 @@ cp ./Country.mmdb ~/.config/clash
 ```BASH
 ./clash-linux-amd64-v1.3.5 -f ./yourconfig.yaml
 ```
+
+### Last
+
+- If you want to configure clash as a system service for management, please refer to my blog
+  - https://www.tankenqi.cn/posts/48
