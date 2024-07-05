@@ -61,7 +61,7 @@ unproxy
 
 ### Notice
 
-- *If `Country.mmdb` is not displayed, Just place `Country.mmdb` in the directory under ``~/. config/clash/``*
+- *If `Country.mmdb` is not displayed, Just place `Country.mmdb` in the directory under ``~/.config/clash/``*
 
 ```
 mkdir -p ~/.config/clash 
